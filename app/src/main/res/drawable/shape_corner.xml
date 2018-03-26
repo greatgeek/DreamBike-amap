@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#99000000" /><!--solid 实心，就是填充的意思，android:color 指定填充的颜色-->
+    <corners android:radius="10dp" /><!--corners 圆角，android:radius 为角的弧度值，值越大角越大，radius为四个角同时设置，topRightRadius为右上角，以此类推-->
+</shape>

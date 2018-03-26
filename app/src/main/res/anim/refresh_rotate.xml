@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <rotate
+        android:fromDegrees="359"
+        android:toDegrees="0"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:duration="500"
+        android:repeatCount="-1"/>//fromDegrees和toDegrees可以决定旋转方向，从0度到359度是正转，359度到0度是反转
+</set>
